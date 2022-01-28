@@ -1,0 +1,51 @@
+[
+    {
+      "class_name": "友情链接",
+      "class_desc": "那些人，那些事",
+      "link_list": 
+      [
+        {
+            "name": "仰望の小窝",
+            "link": "https://ztywdxw.cf/",
+            "avatar": "http://q1.qlogo.cn/g?b=qq&nk=2401491894&s=100",
+            "descr": "直系学长的分享"
+        },
+        {
+            "name": "尘社-Cheni Word",
+            "link": "http://www.cheni.vip/",
+            "avatar": "http://q1.qlogo.cn/g?b=qq&nk=2717260392&s=100",
+            "descr": "做最好的世界"
+        },
+        {
+            "name": "BackRer",
+            "link": "https://backre.cn/",
+            "avatar": "http://q1.qlogo.cn/g?b=qq&nk=3100026750&s=100",
+            "descr": "五边形战士"
+        }
+      ]
+    },
+    {
+      "class_name": "网站",
+      "class_desc": "值得推荐的网站",
+      "link_list": [
+        {
+          "name": "Youtube",
+          "link": "https://www.youtube.com/",
+          "avatar": "https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png",
+          "descr": "视频网站"
+        },
+        {
+          "name": "Weibo",
+          "link": "https://www.weibo.com/",
+          "avatar": "https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png",
+          "descr": "中国最大社交分享平臺"
+        },
+        {
+          "name": "Twitter",
+          "link": "https://twitter.com/",
+          "avatar": "https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png",
+          "descr": "社交分享平臺"
+        }
+      ]
+    }
+  ]
