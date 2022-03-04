@@ -21,6 +21,11 @@
             "link": "https://backre.cn/",
             "avatar": "http://q1.qlogo.cn/g?b=qq&nk=3100026750&s=100",
             "descr": "五边形战士"
+        },{
+            "name": "Keishiの博客",
+            "link": "https://keishi.cn",
+            "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1291596219&s=100",
+            "descr": "积极看待，行有所止"
         }
       ]
     },
@@ -29,22 +34,22 @@
       "class_desc": "值得推荐的网站",
       "link_list": [
         {
-          "name": "Youtube",
-          "link": "https://www.youtube.com/",
-          "avatar": "https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png",
-          "descr": "视频网站"
+          "name": "Butterfly",
+          "link": "https://butterfly.js.org/",
+          "avatar": "https://butterfly.js.org/img/avatar.png",
+          "descr": "感谢主题提供"
         },
         {
-          "name": "Weibo",
-          "link": "https://www.weibo.com/",
-          "avatar": "https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png",
-          "descr": "中国最大社交分享平臺"
+          "name": "CSDN",
+          "link": "https://www.csdn.net",
+          "avatar": "https://img-home.csdnimg.cn/images/20201124032511.png",
+          "descr": "技术论坛YYDS"
         },
         {
-          "name": "Twitter",
-          "link": "https://twitter.com/",
-          "avatar": "https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png",
-          "descr": "社交分享平臺"
+          "name": "BiliBili",
+          "link": "https://www.bilibili.com/",
+          "avatar": "https://i0.hdslb.com/bfs/archive/9a30607625e6c07da570bb2eb07ebdcc4b23c759.png",
+          "descr": "小破站"
         }
       ]
     }
