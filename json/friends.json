@@ -47,13 +47,13 @@
         {
           "name": "CSDN",
           "link": "https://www.csdn.net",
-          "avatar": "https://cdn.jsdelivr.net/gh/fromann/CDN@anan/img/icon/csdn.svg",
+          "avatar": "https://cdn.jsdelivr.net/gh/fromann/CDN@1.0.4/img/icon/csdn.svg",
           "descr": "技术论坛YYDS"
         },
         {
           "name": "BiliBili",
           "link": "https://www.bilibili.com/",
-          "avatar": "https://cdn.jsdelivr.net/gh/fromann/CDN@anan/img/icon/bilibili.svg",
+          "avatar": "https://cdn.jsdelivr.net/gh/fromann/CDN@1.0.4/img/icon/bilibili.svg",
           "descr": "小破站"
         }
       ]
