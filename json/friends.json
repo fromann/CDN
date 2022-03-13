@@ -24,8 +24,13 @@
         },{
             "name": "Keishiの博客",
             "link": "https://keishi.cn",
-            "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1291596219&s=100",
+            "avatar": "https://img.keishi.cc/img/2021logo.jpg",
             "descr": "积极看待，行有所止"
+        },{
+            "name": "諃仙 ”s Blog",
+            "link": "https://xany.cc/",
+            "avatar": "https://pan.whgpc.com/view.php/396bcd4478092d566ed034cf5c21a24f.png",
+            "descr": "反正世界叵测，褒贬你随意"
         }
       ]
     },
